@@ -11,10 +11,10 @@ This is just to prove i can use github and markdown.
 
 # Dev enviornment
 
--Python 3.10.4
--VSCode v 1.66.2
--Python extension v2022.4.1
--Pylance extension v2022.4.1
+* Python 3.10.4
+* VSCode v 1.66.2
+* Python extension v2022.4.1
+* Pylance extension v2022.4.1
 
 # Useful Websites
 * PyPi https://pypi.org/project/colorama/
